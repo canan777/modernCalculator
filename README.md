@@ -2,12 +2,13 @@
 
 ![](./src/modernCalculator.gif)
 
-🧮 Modern Calculator
+## 🧮 Modern Calculator
 
-This project is a modern, responsive calculator designed with a clean interface and smooth button interactions. 🎯
-Built using HTML, CSS, and JavaScript, it offers both style and functionality in a user-friendly design. 💻✨
+✅This project is a modern, responsive calculator designed with a clean interface and smooth button interactions. 🎯
 
-✨ Features
+✅Built using HTML, CSS, and JavaScript, it offers both style and functionality in a user-friendly design. 💻✨
+
+## ✨ Features
 
 🔢 Basic arithmetic operations – Addition, subtraction, multiplication, division
 
@@ -17,7 +18,7 @@ Built using HTML, CSS, and JavaScript, it offers both style and functionality in
 
 ⚡ Real-time calculations – Instant results with JavaScript
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 🖼 HTML5 – Structure and layout
 
